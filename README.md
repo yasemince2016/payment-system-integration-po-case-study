@@ -1,5 +1,6 @@
 # payment-system-integration-po-case-study
 End-to-end Payment System Integration case study demonstrating Product Ownership, compliance governance, SLA management, and API-based financial workflows.
+
 payment-system-integration-po-case-study
 │
 ├── README.md
@@ -20,6 +21,8 @@ payment-system-integration-po-case-study
     ├── sla-framework.md
     ├── compliance-framework.md
     └── incident-management.md
+
+    
     🎯 Payment System Integration – Product Owner Case Study
 📌 Overview
 
